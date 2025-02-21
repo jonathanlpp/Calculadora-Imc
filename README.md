@@ -1,6 +1,6 @@
 # Calculadora de IMC
 
-Olá! Seja bem-vindo à **Calculadora de IMC**!
+
 
  🏋️‍♂️ Este projeto foi criado para ajudar você a calcular seu Índice de Massa Corporal (IMC) de forma simples e rápida. 
   Com apenas alguns cliques, você pode descobrir se está no peso ideal ou se precisa tomar algum cuidado!
